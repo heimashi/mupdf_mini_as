@@ -10,7 +10,6 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.rong360.android.crypt.Security;
 
 import java.io.File;
 import java.io.FileFilter;
@@ -64,7 +63,6 @@ public class LibraryActivity extends ListActivity
 		adapter = new ArrayAdapter<Item>(this, android.R.layout.simple_list_item_1);
 		setListAdapter(adapter);
 
-		//Security.init(getApplicationContext(), true);
 	}
 
 	public void onResume() {
