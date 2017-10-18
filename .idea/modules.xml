@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MupdfAs.iml" filepath="$PROJECT_DIR$/MupdfAs.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mupdf_mini_as.iml" filepath="$PROJECT_DIR$/mupdf_mini_as.iml" />
     </modules>
   </component>
 </project>
