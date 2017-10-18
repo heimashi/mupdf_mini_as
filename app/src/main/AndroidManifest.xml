@@ -50,8 +50,9 @@
                 <data android:pathPattern=".*\\.fb2" />
             </intent-filter>
         </activity>
+
         <activity
             android:name=".OutlineActivity"
-            android:configChanges="orientation|screenSize|keyboardHidden"></activity>
+            android:configChanges="orientation|screenSize|keyboardHidden"/>
     </application>
 </manifest>
